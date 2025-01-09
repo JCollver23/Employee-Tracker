@@ -52,9 +52,9 @@
   after install type node index.js into your terminal then simply follow the prompts to view menu of options detailed in the above description. Use arrow keys to navigate list of options.
 
    Example output:   
-    ![Alt text](Assets/Command-line%20menu%20options.png)
-    ![Alt text](Assets/View%20Employees.png)
-    ![Alt text](Assets/View%20Departments.png)
+    ![Alt text](Assets/Command-line%20menu%20options.png)   
+    ![Alt text](Assets/View%20Employees.png)   
+    ![Alt text](Assets/View%20Departments.png)   
     ![Alt text](Assets//View%20Roles.png)   
   Link to video DEMO of application: https://drive.google.com/file/d/1G5sOn8QPJKHcpqaR7eHEeJPYVXx6seHW/view?usp=drive_link
     
