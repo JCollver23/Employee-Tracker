@@ -20,6 +20,7 @@
  Add Role - add new role name, salary and department role falls under to the database.
 
  Update Employee Role - assign a new role to an existing employee.
+
   
   ## Table of Contents
   1. [Description](#description)
@@ -48,17 +49,14 @@
   
   ## Usage
   
-  after install type node index.js into your terminal then simply follow the prompts to view menu of options detailed in the above description. Use arrow keys to navigate list of options. 
+  after install type node index.js into your terminal then simply follow the prompts to view menu of options detailed in the above description. Use arrow keys to navigate list of options.
 
-  Example output: 
+   Example output:   
+    ![Alt text](Assets/Command-line%20menu%20options.png)
     ![Alt text](Assets/View%20Employees.png)
     ![Alt text](Assets/View%20Departments.png)
-    ![Alt text](Assets//View%20Roles.png)
-    ![Alt text](Assets/Command-line%20menu%20options.png)
-    
-
-
-    Link to video DEMO of application: https://drive.google.com/file/d/1G5sOn8QPJKHcpqaR7eHEeJPYVXx6seHW/view?usp=drive_link
+    ![Alt text](Assets//View%20Roles.png)   
+  Link to video DEMO of application: https://drive.google.com/file/d/1G5sOn8QPJKHcpqaR7eHEeJPYVXx6seHW/view?usp=drive_link
     
   
   ## License
